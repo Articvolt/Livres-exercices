@@ -9,7 +9,6 @@ Vous   implémenterez   une   méthode afficherBibliographie qui  permettra  d�
 
 <h2>LES LIVRES DE STEPHEN KING</h2>
 
-
 <p>
 "Ca" (1986) : 1138 pages / 20 € <br>
 "Simetierre" (1983) : 374 pages / 15 €<br>
@@ -21,6 +20,7 @@ Vous   implémenterez   une   méthode afficherBibliographie qui  permettra  d�
 
 <?php
 
+// création du lien entre les differents document php
 require "Auteur.php";
 require "Livres.php";
 
